@@ -1,0 +1,4 @@
+The menu items that were ordered more than 1 times so far are:
+
+Quick & Spicy Asian Pickles , which was ordered 2 times;
+Cauliflower-Leek Purée , which was ordered 2 times;

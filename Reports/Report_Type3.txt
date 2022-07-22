@@ -1,0 +1,4 @@
+The clients that ordered more than 1 times and the value of their orders was higher than $50.0:
+
+Client Diana(4);
+Client Diana(4);
